@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186907844498",
+    "project_id": "emojistatus-51448",
+    "storage_bucket": "emojistatus-51448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186907844498:android:2b69655a4138e15c7eab4b",
+        "android_client_info": {
+          "package_name": "com.education.emojistatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186907844498-6p3hagjkflfn1pdr7i8hhqhs0t8i5afi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.education.emojistatus",
+            "certificate_hash": "b8426c63f2d14157bf826fc17ad31c1b7cd15465"
+          }
+        },
+        {
+          "client_id": "186907844498-2shvs6duhcevfo6ade2gltsiqcr2b8tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHnKga0ZMMtr4YIQHStFRcPCwYk3Huv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186907844498-2shvs6duhcevfo6ade2gltsiqcr2b8tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
